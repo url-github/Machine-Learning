@@ -1,6 +1,9 @@
-matplotlib
 pandas
 numpy
+
+matplotlib
+
+scikit-learn
 
 # python3 -m pip install -r requirements.txt
 # pip install --upgrade pip
